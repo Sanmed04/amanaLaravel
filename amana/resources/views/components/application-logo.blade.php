@@ -1,0 +1,1 @@
+<x-amana-logo :width="40" />
